@@ -1,4 +1,4 @@
-# 📊 Paisabazaar Banking Customer Analysis Dashboard
+# 📊 Paisabazaar Banking Fraud Analysis Dashboard
 
 An end-to-end **Business Intelligence Dashboard** built using **Microsoft Power BI** to analyze customer financial behavior, credit profiles, income patterns, outstanding debt, and key banking KPIs.
 
