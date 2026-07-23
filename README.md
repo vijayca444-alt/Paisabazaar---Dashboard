@@ -8,7 +8,7 @@ An end-to-end **Business Intelligence Dashboard** built using **Microsoft Power 
 
   
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
